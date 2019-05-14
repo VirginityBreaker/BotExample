@@ -1,0 +1,19 @@
+{
+  "name": "univer-bot-reminder",
+  "version": "0.0.1",
+  "description": "Schedule bot and other",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "telegram"
+  ],
+  "author": "SobolM",
+  "license": "ISC",
+  "dependencies": {
+    "node-storage": "0.0.7",
+    "node-telegram-bot-api": "^0.28.0"
+  }
+}
